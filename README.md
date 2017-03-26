@@ -1,13 +1,15 @@
+[![Build Status](https://travis-ci.org/liaa/react-conditional-view.svg?branch=master)](https://travis-ci.org/liaa/react-conditional-view)
+
 # Boilerplate for creating React Npm packages with ES2015
 
 The package is based on [npm-base](https://github.com/kadirahq/npm-base) package by [Kadira](https://github.com/kadirahq) which is really great when you want to prepare Npm package. This one is prepared to be used as a starter point for React components which needs to be published on Npm.
 
 It includes:
 
-    * Linting with [ESLint](http://eslint.org/)
-    * Testing with [Jest](https://facebook.github.io/jest/) and [Enzyme](http://airbnb.io/enzyme/)
-    * Example with [react-scripts](https://github.com/facebookincubator/create-react-app/tree/master/packages/react-scripts)
-    * Continues Integration with [travis-ci](https://travis-ci.org/)
+ * Linting with [ESLint](http://eslint.org/)
+ * Testing with [Jest](https://facebook.github.io/jest/) and [Enzyme](http://airbnb.io/enzyme/)
+ * Example with [react-scripts](https://github.com/facebookincubator/create-react-app/tree/master/packages/react-scripts)
+ * Continues Integration with [travis-ci](https://travis-ci.org/)
 
 Also there is of course ES6 transpilation.
 
