@@ -20,8 +20,9 @@ Also there is of course ES6 transpilation.
 3. If you want to run tests: `npm test` or `npm run test-watch`. You need to write tests in `__tests__` folder. You need at least Node 4 on your machine to run tests.
 4. If you want to run linting: `npm run lint`. Fix bugs: `npm run lint-fix`. You can adjust your `.eslintrc` config file.
 5. If you want to run transpilation to ES5 in `dist` folder: `npm run prepublish` (standard npm hook).
-6. If you want see how your plugin work in real word react application. Go to example folder run
-`npm install` and run `npm start`.
+6. If you want see how your plugin work in real word react application. Run `npm run prepublish`
+then go to example folder run `npm install` and run `npm start`.
+7. If you want to publish your package to npm just run `npm publish`.
 
 
 ## License
