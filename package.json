@@ -21,7 +21,8 @@
     "lint": "eslint ./src",
     "lintfix": "eslint ./src --fix",
     "testonly": "mocha $npm_package_options_mocha",
-    "test": "jest --watch"
+    "test": "jest",
+    "test-watch": "jest --watch"
   },
   "devDependencies": {
     "babel-cli": "^6.6.4",
